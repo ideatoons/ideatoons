@@ -1,0 +1,30 @@
+{
+	"articles": [{
+			"id": "1",
+			"createdBy": "bhanuprksh96@gmail.com",
+			"views": 3,
+			"title": "The Rat Race",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Work_life_balance_rat_race.png",
+			"date": "March 31, 2020",
+			"description": "You went to college because you went school, you got in job because you went to college, you need promotion/increment because you got job. Don't you think, you have given handle of your life in someone else's hand whether it is people around you or your so called God."
+		},
+		{
+			"id": "2",
+			"createdBy": "bhanuprksh96@gmail.com",
+			"views": 2,
+			"title": "Unemployment or Underemployment",
+			"image": "https://p0.pxfuel.com/preview/750/229/152/silhouette-desk-analyze-browsing.jpg",
+			"date": "March 31, 2020",
+			"description": "The major problem youth are facing today is under-employment not the unemployment. Companies are striving to find the candidates who have basic skills to do a starter job, but they are unable to find desired number of candidates who are eligible for this basic requirement. This shows that there is definitely a gap between education and industry which is not seriously identified in last couple of decades."
+		},
+		{
+			"id": "3",
+			"createdBy": "bhanuprksh96@gmail.com",
+			"views": 1,
+			"title": "The habitual ironies",
+			"image": "https://c.pxhere.com/images/a9/6e/20cc225c3813ce10303f9f4888c8-1574913.jpg!d",
+			"date": "March 31, 2020",
+			"description": "Most people are so intelligent that they are suffering their own intelligence. In spite of being capable, they will not take any initiative for creating their own identity and spend their whole life in walls of a company. We have seen many linkedin posts where people suggest company owner that their owner should do it, owner should do that etc., If you have better plans than your company's owner (who took initiative) why don't you take initiative? It infers that It's not 'mind' which makes the difference but It's 'mentality which creates difference between slaves and entrepreneurs. Following are the reasons why even capable people don't take any initiative in their whole life, They think that being an entrepreneur will require them to leave their jobs as they have read many over-motivational stories about successful people leaving everything before being successful. On other side, they spend their weekends in doing many unimportant things or doing freelancing for someone other's business for some extra money. They are always in competition of earning more package than their friends which makes them in-competitive and plays habitual game of 'monthly salary loop'. They complain that their company owner is not running the company in well manner if they would be owner of that company then they would have running it nicely. On other side, they don't dare to take any initiative and always seeks jobs in companies. They think that it is risky to start something new and enjoy the risk of spending their whole life working for someone other's business and being the headcount for shake of monthly salary. They think they will work hard in companies, gain more experience and will get chance to work in US or Developed countries and get monthly salary in dollars/euros but still can't think outside the monthly salary. On the other side, Person who took initiative, send his slaves to US for work and himself goes to bangkok for enjoy. My favourite - they will try to find spelling mistakes in my article instead of thinking about it. At conclusion, they have all the answers and excuses for not taking an initiative until they don't have sufficient pain of not taking it."
+		}
+	]
+}
