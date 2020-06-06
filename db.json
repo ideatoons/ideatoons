@@ -28,5 +28,61 @@
 			"blockquote": "They complain that their company owner is not running the company in well manner if they would be owner of that company then they would have running it nicely. On other side, they don't dare to take any initiative and always seeks jobs in companies.",
 			"description": "Most people are so intelligent that they are suffering their own intelligence. In spite of being capable, they will not take any initiative for creating their own identity and spend their whole life in walls of a company. We have seen many linkedin posts where people suggest company owner that their owner should do it, owner should do that etc., If you have better plans than your company's owner (who took initiative) why don't you take initiative? It infers that It's not 'mind' which makes the difference but It's 'mentality which creates difference between slaves and entrepreneurs. Following are the reasons why even capable people don't take any initiative in their whole life, They think that being an entrepreneur will require them to leave their jobs as they have read many over-motivational stories about successful people leaving everything before being successful. On other side, they spend their weekends in doing many unimportant things or doing freelancing for someone other's business for some extra money. They are always in competition of earning more package than their friends which makes them in-competitive and plays habitual game of 'monthly salary loop'. They complain that their company owner is not running the company in well manner if they would be owner of that company then they would have running it nicely. On other side, they don't dare to take any initiative and always seeks jobs in companies. They think that it is risky to start something new and enjoy the risk of spending their whole life working for someone other's business and being the headcount for shake of monthly salary. They think they will work hard in companies, gain more experience and will get chance to work in US or Developed countries and get monthly salary in dollars/euros but still can't think outside the monthly salary. On the other side, Person who took initiative, send his slaves to US for work and himself goes to bangkok for enjoy. My favourite - they will try to find spelling mistakes in my article instead of thinking about it. At conclusion, they have all the answers and excuses for not taking an initiative until they don't have sufficient pain of not taking it."
 		}
+	],
+	
+	"ideas":[{
+			"id": "1",
+			"createdBy": "bhanuprksh96@gmail.com",
+			"views": 3,
+			"title": "HRER",
+			"image": "assets/img/portfolio/search-person.svg",
+			"date": "March 31, 2020",
+			"description": "Hrer is a platform for both HR and candidates to help them detect fraud patterns in hiring process. For hr, it will detect probability of candidate to join after accepting offer. For candidate, it will deletect the seriousness of interviewer hiring for role."
+		},
+		 {
+			"id": "2",
+			"createdBy": "bhanuprksh96@gmail.com",
+			"views": 3,
+			"title": "Selfiesh",
+			"image": "assets/img/portfolio/selfies.svg",
+			"date": "March 31, 2020",
+			"description": "Selfiesh is a concept of selfie contest where each participant can enter in contest with minimum amount. The winner (having more likes) will get all money as prize which other participants submitted at time of entry."
+		},
+		 {
+			"id": "3",
+			"createdBy": "bhanuprksh96@gmail.com",
+			"views": 3,
+			"title": "Studious",
+			"image": "assets/img/portfolio/learning.svg",
+			"date": "March 31, 2020",
+			"description": "Studious is a concept of 'Students helping students'. A student of a particular college/course can be proficient in one subject, who may need help in another subject in which another student of same/other college may be proficient in."
+		},
+		 {
+			"id": "4",
+			"createdBy": "bhanuprksh96@gmail.com",
+			"views": 3,
+			"title": "Eternal Letters",
+			"image": "assets/img/portfolio/letter.svg",
+			"date": "March 31, 2020",
+			"description": "'Eternal letters' is a collection of emotional assets a person can record to be played at celebral or eternal events of his/her life. It is an idea of emotional insurence or locker for humans."
+		},
+		 {
+			"id": "5",
+			"createdBy": "goverdhansandeep@gmail.com",
+			"views": 3,
+			"title": "ADVISR",
+			"image": "assets/img/portfolio/tellmesir.svg",
+			"date": "March 31, 2020",
+			"description": "ADVISR offers online consultancy by qualified and experienced professionals from various consultancy fields.Get advice anytime from anywhere, on issues related to all important aspects of life."
+		},
+		 {
+			"id": "6",
+			"createdBy": "bhanuprksh96@gmail.com",
+			"views": 3,
+			"title": "BOTR",
+			"image": "assets/img/portfolio/chatbot.svg",
+			"date": "March 31, 2020",
+			"description": "Boter is an idea of chatbot assistant. This chatbot assistant will use natural language and artificial intellegence for personalized experience."
+		}
 	]
 }
