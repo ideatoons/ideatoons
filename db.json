@@ -39,62 +39,6 @@
 			"blockquote": "People pursuing master degree who are supposed to create new opportunities for others, dream of doing a job in a company - this is the main reason of unemployment."
 		}
 	],
-
-	"ideas": [{
-			"id": "1",
-			"createdBy": "bhanuprksh96@gmail.com",
-			"views": 3,
-			"title": "HRER",
-			"image": "assets/img/portfolio/search-person.svg",
-			"date": "March 31, 2020",
-			"description": "Hrer is a platform for both HR and candidates to help them detect fraud patterns in hiring process. For hr, it will detect probability of candidate to join after accepting offer. For candidate, it will deletect the seriousness of interviewer hiring for role."
-		},
-		{
-			"id": "2",
-			"createdBy": "bhanuprksh96@gmail.com",
-			"views": 3,
-			"title": "Selfiesh",
-			"image": "assets/img/portfolio/selfies.svg",
-			"date": "March 31, 2020",
-			"description": "Selfiesh is a concept of selfie contest where each participant can enter in contest with minimum amount. The winner (having more likes) will get all money as prize which other participants submitted at time of entry."
-		},
-		{
-			"id": "3",
-			"createdBy": "bhanuprksh96@gmail.com",
-			"views": 3,
-			"title": "Studious",
-			"image": "assets/img/portfolio/learning.svg",
-			"date": "March 31, 2020",
-			"description": "Studious is a concept of 'Students helping students'. A student of a particular college/course can be proficient in one subject, who may need help in another subject in which another student of same/other college may be proficient in."
-		},
-		{
-			"id": "4",
-			"createdBy": "goverdhansandeep@gmail.com",
-			"views": 3,
-			"title": "Eternal Letters",
-			"image": "assets/img/portfolio/letter.svg",
-			"date": "March 31, 2020",
-			"description": "'Eternal letters' is a collection of emotional assets a person can record to be played at celebral or eternal events of his/her life. It is an idea of emotional insurence or locker for humans."
-		},
-		{
-			"id": "5",
-			"createdBy": "goverdhansandeep@gmail.com",
-			"views": 3,
-			"title": "ADVISR",
-			"image": "assets/img/portfolio/tellmesir.svg",
-			"date": "March 31, 2020",
-			"description": "ADVISR offers online consultancy by qualified and experienced professionals from various consultancy fields.Get advice anytime from anywhere, on issues related to all important aspects of life."
-		},
-		{
-			"id": "6",
-			"createdBy": "bhanuprksh96@gmail.com",
-			"views": 3,
-			"title": "BOTR",
-			"image": "assets/img/portfolio/chatbot.svg",
-			"date": "March 31, 2020",
-			"description": "Boter is an idea of chatbot assistant. This chatbot assistant will use natural language and artificial intellegence for personalized experience."
-		}
-	],
 	"rws": {
 		"property": {
 			"deviceinfo": {
